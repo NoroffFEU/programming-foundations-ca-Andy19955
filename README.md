@@ -14,3 +14,5 @@ I chose my guitar as an object from my daily life.
 - Sound (boolean), initially set to false because there is initially no sound from the guitar.
 - Tuning (array), an array containing the notes of the guitar strings.
 - Play (function), a function that toggles "sound"-property (true and false) based on if the guitar is played on (makes sound) or not (does not make sound).
+
+There is also a button that can be clicked to start or stop playing on the guitar. This button calls the play-function which toggles the sound value (true and false).
