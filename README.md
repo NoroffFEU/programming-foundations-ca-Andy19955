@@ -2,11 +2,11 @@
 
 # Programming Foundations CA
 
-# Guitar object
+## Guitar object
 
 I chose my guitar as an object from my daily life.
 
-# This object has the following properties:
+## This object has the following properties:
 
 - Brand (string), the manufactorer of the guitar.
 - Strings (number), the amount of strings on the guitar.
